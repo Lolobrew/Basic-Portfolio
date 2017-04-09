@@ -64,4 +64,5 @@ a:visited {
 
 .container {
 	float: left;
+	background-image: url("../images/background.png");
 }
