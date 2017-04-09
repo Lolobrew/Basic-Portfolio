@@ -65,4 +65,38 @@ a:visited {
 .container {
 	float: left;
 	background-image: url("../images/background.png");
+	padding-left: 140px;
+	border-bottom: 4px groove teal;
+	width: 100%;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.leftheader {
+	font-size: 30px;
+	border-bottom: 2px groove #cccccc;
+	padding-bottom: 10px;
+	font-size: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 20px;
+	width: 200px;
+}
+
+.left {
+	width: 650px;
+	background: #ffffff;
+}
+
+.paragraph {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+.footer {
+	clear: both;
+	height: 100px;
+	text-align: center;
+	background: #666666;
+
 }
