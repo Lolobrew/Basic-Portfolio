@@ -63,7 +63,6 @@ a {
 
 
 a:hover {
-	color: teal;
 	text-shadow: 2px 1px #cccccc;
 	font-size: 22px;
 }
@@ -117,6 +116,11 @@ a:visited {
 
 #encanto {
 	color: maroon;
+}
+
+#encanto:hover {
+	text-decoration: none;
+	font-size: inherit;
 }
 
 
